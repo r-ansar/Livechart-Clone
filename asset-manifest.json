@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Livechart-Clone/static/css/main.496aef6d.css",
+    "main.js": "/Livechart-Clone/static/js/main.1c1f0f9d.js",
+    "static/js/453.2c40918e.chunk.js": "/Livechart-Clone/static/js/453.2c40918e.chunk.js",
+    "static/media/Kaijuu_no_8.webp": "/Livechart-Clone/static/media/Kaijuu_no_8.a3dc0a51423b500290e0.webp",
+    "static/media/Dan_da_dan.webp": "/Livechart-Clone/static/media/Dan_da_dan.5c0b9942d013896a9b8c.webp",
+    "static/media/my_dressup_darling.webp": "/Livechart-Clone/static/media/my_dressup_darling.fdf6dc06508167b0ada5.webp",
+    "index.html": "/Livechart-Clone/index.html",
+    "main.496aef6d.css.map": "/Livechart-Clone/static/css/main.496aef6d.css.map",
+    "main.1c1f0f9d.js.map": "/Livechart-Clone/static/js/main.1c1f0f9d.js.map",
+    "453.2c40918e.chunk.js.map": "/Livechart-Clone/static/js/453.2c40918e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.496aef6d.css",
+    "static/js/main.1c1f0f9d.js"
+  ]
+}
